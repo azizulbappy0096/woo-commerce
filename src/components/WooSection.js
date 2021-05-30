@@ -19,9 +19,9 @@ function WooSection() {
                 a client, or simply add a single product to a WordPress
                 site—your store, your way.
               </Card.Text>
-              <Button className="wooSection__button rounded-pill">
+              <button className="wooSection__button py-2 px-3 rounded-pill">
                 Read the Documentation
-              </Button>
+              </button>
             </Card.Body>
           </Card>
         </div>
@@ -38,9 +38,9 @@ function WooSection() {
                 of online resources are frequently cited as reasons our users
                 love it. There are 80+ meetups worldwide!
               </Card.Text>
-              <Button className="wooSection__button rounded-pill">
+              <button className="wooSection__button py-2 px-3 rounded-pill">
                 Read the Documentation
-              </Button>
+              </button>
             </Card.Body>
           </Card>
         </div>

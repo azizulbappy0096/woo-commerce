@@ -20,9 +20,6 @@ a {
   z-index: 10;
 }
 
-button:focus, button:active {
-  border: none !important;
-  outline: none !important;
-  /* background-color: none; */
-  box-shadow: none !important;
+button {
+  color: #fff;
 }

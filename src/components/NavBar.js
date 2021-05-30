@@ -52,10 +52,10 @@ function NavBar() {
           <Nav.Link href="#pricing">Resources</Nav.Link>
         </Nav>
         <Nav className="w-auto">
-          <Button className="bg-transparent px-1 py-1 border-0">Login</Button>
-          <Button className="p-1 border-0 nav-btn px-2 mx-md-2">
+          <button className="bg-transparent p-1 border-0">Login</button>
+          <button className="p-1 px-2 rounded border-0 nav-btn  mx-md-2">
             Get Started
-          </Button>
+          </button>
           <img
             className="d-none d-md-block"
             src="/images/icon-search.svg"
