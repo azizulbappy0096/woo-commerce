@@ -1,5 +1,6 @@
 import Head from "next/head";
 import FeaturesSection from "../src/components/FeaturesSection";
+import Footer from "../src/components/Footer";
 import HeroSection from "../src/components/HeroSection";
 import NavBar from "../src/components/NavBar";
 import SupportedBy from "../src/components/SupportedBy";
@@ -25,6 +26,10 @@ export default function Home() {
         <TestimonialSection />
         <SupportedBy />
       </main>
+
+      <footer>
+      <Footer />
+      </footer>
 
       <div className="hero-bg">
         <img src="/images/W.svg" />
