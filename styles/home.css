@@ -148,7 +148,7 @@
 }
 
 .suportedBy .cta button {
-  border: 2px solid #FFFFFF;
+  border: 2px solid #FFFFFF !important;
   transition: all 0.25s ease-in-out;
 }
 
